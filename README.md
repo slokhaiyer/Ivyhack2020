@@ -1,16 +1,16 @@
 # Ivyhack2020
--Dates :  Oct 1 - Oct 4
+- Dates :  Oct 1 - Oct 4
 ---
--Introduction - Team 
+- Introduction - Team 
 ---
--Project Description
+- Project Description
 ---
--Screenshots
+- Screenshots
 ---
--App-link
+- App-link
 ---
--Youtube
+- Youtube
 ---
--Demo
+- Demo
 ---
 
