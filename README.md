@@ -27,7 +27,7 @@ Oct 1 - Oct 4
 
 
 ### What did your team learn?
-
+ Our biggest learning was to **focus on the problem, not the solution**
 ### Youtube Link
 
 ### Demo
