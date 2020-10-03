@@ -3,10 +3,10 @@
 ### Hackathon Dates
 Oct 1 - Oct 4
 ### Your Project Members
-Chenchen \
-Ryan \
-Sanskriti \
-Slokha 
+[Chenchen](https://github.com/chenchenlu) \
+[Ryan](https://github.com/ryrytio) \
+[Sanskriti](https://github.com/sanskritisukkal) \
+[Slokha](https://github.com/slokhaiyer) 
 ### What is the name of your project?    
 
 ### What does this project do?
