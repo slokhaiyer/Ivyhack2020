@@ -11,8 +11,8 @@ Oct 1 - Oct 4
  **Cook2Gather** \
   The coolest conversations happen over meals :grin:
 ### Project Description and Future Scope
-  A web application that helps you to pick, add and submit a receipe, cook them with your friends and have a good time. 
-  Scope :
+  A web application that helps you to pick, add and submit a receipe, cook them with your friends and have a good time. \
+  Scope : \
              - Users can play their go-to songs while cooking; 
              - 
 ### Who did you design this project for?
