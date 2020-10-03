@@ -33,4 +33,4 @@ Oct 1 - Oct 4
 ### Demo
 
 ### Design
-![ScreenShot]()
+![ScreenShot](Landing Page.png)
