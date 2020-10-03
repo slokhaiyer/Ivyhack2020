@@ -33,4 +33,6 @@ Oct 1 - Oct 4
 ### Demo
 
 ### Design
-![ScreenShot](https://github.com/slokhaiyer/Ivyhack2020/blob/master/Landing%20Page.png)
+Landing Page
+![ScreenShot](https://github.com/slokhaiyer/Ivyhack2020/blob/master/Landing%20Page.png) \
+![ScreenShot](https://github.com/slokhaiyer/Ivyhack2020/blob/master/receipe.png) 
