@@ -20,14 +20,11 @@ Oct 1 - Oct 4
   - Adding to the theme of Ivy Hacks 2020 *Building Bridges, Breaking Barriers* we as a team have tried to help people all across the globe connect with their loved ones.
   
 ### What was your inspiration for this project?
-
-
-### What accomplishments are you most proud of?
-
-
-
-### What did your team learn?
- Our biggest learning was to **focus on the problem, not the solution**
+  Our biggest learning was to **focus on the problem, not the solution**
+  - Connectivity has always been a problem. As a matter of fact, the pandemic has improved connectivity. 
+  - The biggest accomplishment - We've all learnt a lot. Not just a thing or two. 
+  - @chenchen, here too :sob:
+  
 ### Youtube Link
 
 ### Demo
