@@ -31,7 +31,7 @@ Future Scope:
   - Adding to the theme of Ivy Hacks 2020 *Building Bridges, Breaking Barriers* we as a team have tried to help people all across the globe connect with their loved ones.
   
 ### What was your inspiration for this project?
-  Our biggest learning was to **focus on the problem, not the solution**
+  Our greatest learning was to **focus on the problem, not the solution**
   - Connectivity has always been a problem. As a matter of fact, the pandemic has improved connectivity. 
   - The biggest accomplishment - We've all learnt a lot. Not just a thing or two. 
   
