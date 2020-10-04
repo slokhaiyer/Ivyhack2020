@@ -11,7 +11,14 @@ Oct 1 - Oct 4
  **Cook2Gather** \
   The coolest conversations happen over meals :grin:
 ### Project Description and Future Scope
-  A web application that helps you to pick, add and submit a receipe, cook them with your friends and have a good time. \
+  When there is a global pandemic spearating you from your loved ones, it can be hard to stay connected and find online activitites to keep you occupied. \
+That is where Cook2Gather comes in. It is a website that allows you to connect with your friends over cooking and baking. \
+Picking and agreeing on restaurants to dine at is already hard enough, so we decided to implement a **generate a random recipe feature** to take the guesswork out. \
+*Learning to cook* is a skill so many people are looking to - especially during the quarantine. What better way than doing it with the people you love.\
+
+Simply ger a new recipe and then a streaming link to send to friends and family. \
+Our website is deisgned to be easily accesible by even the least tech savvy people - making it perfect for the granparents looking to connect with their grandkids over a batch of cookies made accross the country.
+ 
   Scope : \
              - Users can play their go-to songs while cooking; \
              -  @chenchen pls add a few more :grin:
