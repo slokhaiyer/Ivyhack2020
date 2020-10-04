@@ -18,11 +18,11 @@ Picking and agreeing on restaurants to dine at is already hard enough, so we dec
 
 Simply ger a new recipe and then a streaming link to send to friends and family. \
 Our website is deisgned to be easily accesible by even the least tech savvy people - making it perfect for the granparents looking to connect with their grandkids over a batch of cookies made accross the country. \
-Once you're done cooking, you can show off your favourite recipes on the submissions page.\
+Once you're done cooking, you can show off your favourite recipes on the submissions page.
 
-Future Scope: \
- - Sorting feature with tags to group the categories of food. \
- - A feature to be able to rate your favourite recipies. \
+Future Scope: 
+ - Sorting feature with tags to group the categories of food. 
+ - A feature to be able to rate your favourite recipies. 
  - A way of generating random recipes given the users' input for what indgredients they already hav at hand.
 
 
